@@ -16,9 +16,9 @@
 </p>
                                                                                                                                                       
 ###  A little more about me...  
-- 🔭 I’m currently working on react
-- 🌱 I’m currently learning core javascript and practising DSA on [LeetCode](https://leetcode.com/anujpuri72/)
-- 👯 I’m looking to collaborate on projects involving python and react
+- 🔭 I’m currently working on Next
+- 🌱 I’m currently learning Blockchain 
+- 👯 I’m looking to collaborate on projects involving python ,react and Next
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a terrible gamer 🎮
 
