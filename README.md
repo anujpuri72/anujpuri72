@@ -16,7 +16,9 @@
 </p>
                                                                                                                                                       
 ###  A little more about me...  
-- 🔭 I’m currently working on Next
+- 🔭 I’m currently working in making  <a href="https://gosocial.io/?domain=art">
+   GoSocial
+   <a/>
 - 🌱 I’m currently learning Blockchain 
 - 👯 I’m looking to collaborate on projects involving python ,react and Next
 - 😄 Pronouns: He/Him
