@@ -16,11 +16,11 @@
 </p>
                                                                                                                                                       
 ###  A little more about me...  
-- 🔭 I’m currently working in making  <a href="https://gosocial.io/?domain=art">
-   GoSocial
+- 🔭 I’m currently working at <a href="https://cloutflow.com/">
+   CloutFlow
    <a/>
-- 🌱 I’m currently learning Blockchain 
-- 👯 I’m looking to collaborate on projects involving python ,react and Next
+- 🌱 I’m currently learning Node 
+
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a terrible gamer 🎮
 
